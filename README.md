@@ -1,2 +1,4 @@
 # LaravelJqGrid
-Examples for using JqGrid plugin with in Laravel
+Examples of using JqGrid plugin within Laravel
+
+A jqGrid helper inspired by @mgallegos/laravel-jqgrid is included

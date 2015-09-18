@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": ">=5.3.3",
+        "laravel/framework": "4.2.*",
+        "maatwebsite/excel": "~1.2.1"
+    },
+    "require-dev": {
+        "barryvdh/laravel-debugbar": "1.*",
+        "barryvdh/laravel-ide-helper": "1.*",
+    },
+    "minimum-stability": "stable"
+}
