@@ -3,9 +3,6 @@ namespace App\Models;
 
 use Jqgrid\Search\EloquentSearch;
 
-/**
- * Class PermissionsRepository
- */
 class UsersSearch extends EloquentSearch
 {
     public function boot()
